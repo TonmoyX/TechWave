@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.btn:hover{
+   transform: -10px;
+   transform: scale(1.1);
+}
